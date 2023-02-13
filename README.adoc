@@ -18,7 +18,8 @@ The task was to
 
     create some control flow charts and update the tests based on them (structural method).
 
-********************************
+
+-------------------------------------
 
 
 = Tournament Management Library
