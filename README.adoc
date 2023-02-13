@@ -1,4 +1,6 @@
 Tournament Manager was a group project for the course 'Test logiciel' (= Software testing / 4 ECTS) taught by Mr Bousse at Nantes University in the autumn 2022.
+The feedback for the task can be found in an issue for this project. 
+
 
 L’objectif est de vérifier du mieux que possible que cette bibliothèque est correcte, à l’aide des différentes techniques de test logiciel étudiées dans le cours. / The goal is to verify as well as possible the correctness of this library, with the help of the different software testing techniques studied on the course.
 
@@ -16,7 +18,7 @@ The task was to
 
     create some control flow charts and update the tests based on them (structural method).
 
-
+********************************
 
 
 = Tournament Management Library
