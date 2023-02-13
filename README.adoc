@@ -6,20 +6,24 @@ L’objectif est de vérifier du mieux que possible que cette bibliothèque est 
 
 The task was to
 
-    write JUnit tests for each method in the program
+-   write JUnit tests for each method in the program
 
-    with the help of Mockito when necessary.
+-   with the help of Mockito when necessary.
 
-    verify and update test coverage with the help of JaCoCo.
+-   verify and update test coverage with the help of JaCoCo.
 
-    use mutation testing with PITest.
+-   use mutation testing with PITest.
 
-    write a report about the testability issues and bugs in the code.
+-   write a report about the testability issues and bugs in the code.
 
-    create some control flow charts and update the tests based on them (structural method).
+-   create some control flow charts and update the tests based on them (structural method).
 
 
--------------------------------------
+
+
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  
+
 
 
 = Tournament Management Library
